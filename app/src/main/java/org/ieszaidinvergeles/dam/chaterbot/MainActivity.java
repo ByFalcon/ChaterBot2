@@ -32,6 +32,10 @@ import java.util.Map;
 
 import javax.net.ssl.HttpsURLConnection;
 
+/*
+V2: traducir la conversacion y subirla a la base de datos local
+ */
+
 //https://github.com/pierredavidbelanger/chatter-bot-api
 
 public class MainActivity extends AppCompatActivity {
